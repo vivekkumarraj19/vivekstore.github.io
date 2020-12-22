@@ -1,0 +1,32 @@
+@import url('http://fonts.googleapis.com/css?family=Lacquer&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding:0;
+    
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    font-size: 44px;
+}
+/* h3{
+    background-color: pink;
+}
+h2{
+    background-color: skyblue;
+} */
+ 
+
+h2{
+   font-size: 35px;
+   background-color: coral; 
+}
+h3{
+    font-size: 25px;
+    background-color: coral; 
+}
+h4{
+    font-size: 22px;
+    background-color: coral; 
+}

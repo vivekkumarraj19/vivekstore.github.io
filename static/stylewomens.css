@@ -1,0 +1,52 @@
+@import url('http://fonts.googleapis.com/css?family=Lacquer&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding:0;
+   /* background: center  / cover no-repeat url("")*/
+  
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+    background-color: yellow;
+}
+
+h2{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    color:yellow;
+    
+    
+}
+
+.sImage{
+    height: 850%;
+    margin: 25px ;
+    width: 275px;
+  align-items: center;
+    padding: 10px 10px;
+    justify-content: center;
+    background-color: rgb(106, 52, 156);
+}
+.container{
+    background: center  / cover no-repeat url("https://i.pinimg.com/originals/8c/c0/73/8cc073ccee033c638a4d2081927e991c.jpg")
+}
+
+.p1{
+    text-align: center;
+}
+
+
+
+.btn{
+    padding: 20px;
+    
+}
+.but1{
+    padding: 20px;
+}
+.but2{
+    padding: 20px;
+}
